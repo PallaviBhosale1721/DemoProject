@@ -8,9 +8,5 @@ public class Eg5
 		System.out.println("GIt code added Eg5");
 		
 		System.out.println("GIt code added Eg5");
-		
-		System.out.println("GIt code added Eg5");
-		
-		System.out.println("GIt code added Eg5");
 	}
 }
